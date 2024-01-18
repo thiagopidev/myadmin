@@ -1,3 +1,16 @@
 .ico {
-    margin-right: 3px
+    margin-right: 5px
+}
+.ico-grid {
+    margin-right: 5px
+}
+.ico-edit {
+    color: #007bff
+}
+.ico-delete {
+    color: #dc3545
+}
+.btn-regular {
+    border: 1px solid #c0c0c0;
+    width: 120px
 }
